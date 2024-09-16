@@ -1,0 +1,1 @@
+# Leetcode -> here are leetcode solve problem with there logics
