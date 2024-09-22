@@ -1,6 +1,8 @@
-class Solution {
-public:
-    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+#include<iostream>
+#include<vector>
+using namespace std;
+
+vector<int> spiralOrder(vector<vector<int>>& matrix) {
         int m = matrix.size();
         int n = matrix[0].size();
         int minr = 0;
@@ -37,5 +39,4 @@ public:
             minc++;
         }
         return v;
-    }
-};
+}
