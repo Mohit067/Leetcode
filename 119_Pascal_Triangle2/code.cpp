@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+
 vector<int> getRow(int n) {
         long long i = (long long) n;
         long long curr = 1;
@@ -11,6 +12,7 @@ vector<int> getRow(int n) {
         }
         return ans;
     }
+
 int main(){
 
 }

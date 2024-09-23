@@ -20,6 +20,7 @@ vector<vector<int>> generate(int numRows) {
     }
     return v;
 }
+
 int main(){
     
 }
