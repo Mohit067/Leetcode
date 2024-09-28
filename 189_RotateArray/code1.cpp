@@ -1,3 +1,7 @@
+#include<iostream>
+#include<vector>
+using namespace std;
+int mian(){}
 class Solution {
 public:
     void reverse(int i, int j, vector<int>& v){
